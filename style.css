@@ -8,11 +8,11 @@ html, body{
 body{
     /* background-color: blue; */
     height: 100vh;
-    width: 100vw;
+    width: 100vw; 
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
-    padding: 25px 0px 0px  0px;
+    justify-content: center; 
+    align-items: center;
+    /* padding: 25px 0px 0px  0px; */
     /* margin-bottom: 50px; */
     /* margin: 20px 0px 0px 0px; */
     /* background-image: url("https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"); */
@@ -28,6 +28,7 @@ body{
     background-image: url(./assets/Invitación\ Vertical\ Boda\ Elegante\ Azul\ y\ Dorado.png);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     /* border-radius: 24px; */
     /* justify-content: center;
     align-content: center; */
